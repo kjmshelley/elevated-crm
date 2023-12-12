@@ -112,3 +112,19 @@ nav ul li:hover {
 .social-media-list li {
     margin-right: 10px;
 }
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.img-3 img {
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
